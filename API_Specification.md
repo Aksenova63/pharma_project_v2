@@ -78,3 +78,7 @@
   "message": "An internal server failure occurred"
 }
 ```
+---
+
+# **Маппинг полей для метода POST /api/v1/orders/hold**
+
